@@ -1,7 +1,7 @@
 # developer portfolio website
 
 ```console
-
+this i s new repo
 git config --global user.name "Shubham Mote"
 git config --global user.email "moteshubham@gmail.com"
 
