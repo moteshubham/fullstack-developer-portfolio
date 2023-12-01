@@ -11,7 +11,6 @@ git log
 
 git pull origin
 
-
 git remote add origin https://github.com/moteshubham/fullstack-developer-portfolio.git
   git branch -M main
   git push -u origin main
